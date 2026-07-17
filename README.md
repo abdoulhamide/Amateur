@@ -1,6 +1,7 @@
 # In IUT, CGPA Matters
 A modular C project for calculating CGPA.
 ## Linux
+
 Build:
 ```
 chmod +x make.sh
